@@ -1,18 +1,17 @@
 # projeto_bd
 
 Perguntas:
-O que é MVP?
-- O jogador mais valioso.
+Quntos MVP tem Michael Jordan?
+- 5 MVPS.
 
-O que é Draft?
-- O Draft é um evento que acontece apenas uma vez ao ano onde os 30 times da NBA recrutam novos jogadores para fazerem parte de seu elenco da próxima temporada.
-
-
-Em que ano foi fundado a nba?
-- Dia 6 de junho de 1946.
+Quntos MVP tem Kareen?
+- 6 MVPS.
 
 Quantos MVP tem Stefan Curry?
 - 3 MVPS.
 
 Quantos pontos tem Lebron James?
 - Atualmente o jogador do LA. tem 38.388 pontos em sua carreira.
+
+Quantos pontos tem Stefan Curry?
+- 2488 Pontos.
